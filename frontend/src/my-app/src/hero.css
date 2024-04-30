@@ -1,0 +1,26 @@
+/* Styling for Hero component */
+.hero-section {
+    background-image: url('./images/pramod-tiwari-BPPIrLt51Oc-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 800px; 
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 3px 0px;  */
+    height: 100vh;
+
+}
+
+
+
+.hero-section h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 18px;
+}

@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; /* Use a common font stack for better compatibility */
+    background-color: #d7d6d6;
+    
+}
+
+.nav-link {
+    position: absolute;
+    float: right;
+    margin-left: 10px;
+}
+
+  
